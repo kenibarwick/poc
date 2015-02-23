@@ -1,0 +1,2 @@
+C:\code\poc\Books.Core\Books.Core.csproj;neutral
+C:\code\poc\Books.Store\Books.Store.csproj;x86

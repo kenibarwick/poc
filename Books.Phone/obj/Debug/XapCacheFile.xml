@@ -1,0 +1,23 @@
+﻿<xapCache source="C:\code\poc\Books.Phone\Bin\Debug\Books.Phone_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="23/02/2015 18:17:54">
+  <file source="C:\code\poc\Books.Phone\obj\Debug\Books.Phone.dll" archivePath="Books.Phone.dll" lastWriteTime="23/02/2015 18:17:53" />
+  <file source="C:\code\poc\Books.Phone\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="15/01/2014 23:40:52" />
+  <file source="C:\code\poc\Books.Phone\ToDo-MvvmCross\_ Windows Phone UI.txt" archivePath="ToDo-MvvmCross\_ Windows Phone UI.txt" lastWriteTime="15/01/2014 23:40:52" />
+  <file source="C:\code\poc\Books.Phone\Toolkit.Content\ApplicationBar.Cancel.png" archivePath="Toolkit.Content\ApplicationBar.Cancel.png" lastWriteTime="15/01/2014 23:40:52" />
+  <file source="C:\code\poc\Books.Phone\Toolkit.Content\ApplicationBar.Check.png" archivePath="Toolkit.Content\ApplicationBar.Check.png" lastWriteTime="15/01/2014 23:40:52" />
+  <file source="C:\code\poc\Books.Phone\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="23/02/2015 11:06:25" />
+  <file source="C:\code\poc\Books.Phone\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="15/01/2014 23:40:52" />
+  <file source="C:\code\poc\Books.Phone\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="15/01/2014 23:40:52" />
+  <file source="C:\code\poc\Books.Core\bin\Debug\Books.Core.dll" archivePath="Books.Core.dll" lastWriteTime="23/02/2015 18:17:53" />
+  <file source="C:\code\poc\packages\MvvmCross.HotTuna.CrossCore.3.1.1-beta2\lib\wp8\Cirrious.CrossCore.dll" archivePath="Cirrious.CrossCore.dll" lastWriteTime="15/01/2014 23:40:52" />
+  <file source="C:\code\poc\packages\MvvmCross.HotTuna.CrossCore.3.1.1-beta2\lib\wp8\Cirrious.CrossCore.WindowsPhone.dll" archivePath="Cirrious.CrossCore.WindowsPhone.dll" lastWriteTime="15/01/2014 23:40:52" />
+  <file source="C:\code\poc\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.1.1-beta2\lib\wp8\Cirrious.MvvmCross.dll" archivePath="Cirrious.MvvmCross.dll" lastWriteTime="15/01/2014 23:40:52" />
+  <file source="C:\code\poc\packages\MvvmCross.HotTuna.CrossCore.3.1.1-beta2\lib\wp8\Cirrious.MvvmCross.Localization.dll" archivePath="Cirrious.MvvmCross.Localization.dll" lastWriteTime="15/01/2014 23:40:52" />
+  <file source="C:\code\poc\packages\MvvmCross.HotTuna.Plugin.Json.3.1.1-beta2\lib\wp8\Cirrious.MvvmCross.Plugins.Json.dll" archivePath="Cirrious.MvvmCross.Plugins.Json.dll" lastWriteTime="15/01/2014 23:40:52" />
+  <file source="C:\code\poc\packages\MvvmCross.HotTuna.Plugin.Visibility.3.1.1-beta2\lib\wp8\Cirrious.MvvmCross.Plugins.Visibility.dll" archivePath="Cirrious.MvvmCross.Plugins.Visibility.dll" lastWriteTime="15/01/2014 23:40:52" />
+  <file source="C:\code\poc\packages\MvvmCross.HotTuna.Plugin.Visibility.3.1.1-beta2\lib\wp8\Cirrious.MvvmCross.Plugins.Visibility.WindowsPhone.dll" archivePath="Cirrious.MvvmCross.Plugins.Visibility.WindowsPhone.dll" lastWriteTime="15/01/2014 23:40:52" />
+  <file source="C:\code\poc\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.1.1-beta2\lib\wp8\Cirrious.MvvmCross.WindowsPhone.dll" archivePath="Cirrious.MvvmCross.WindowsPhone.dll" lastWriteTime="15/01/2014 23:40:52" />
+  <file source="C:\code\poc\packages\Coding4Fun.Toolkit.Controls.2.0.7\lib\windowsphone8\Coding4Fun.Toolkit.Controls.dll" archivePath="Coding4Fun.Toolkit.Controls.dll" lastWriteTime="15/01/2014 23:40:52" />
+  <file source="C:\code\poc\packages\MvvmCross.HotTuna.Plugin.Json.3.1.1-beta2\lib\wp8\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="15/01/2014 23:40:52" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="25/09/2012 02:41:02" />
+  <file source="C:\code\poc\Books.Phone\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="23/02/2015 11:06:26" />
+</xapCache>

@@ -1,0 +1,4 @@
+C:\code\NPlus1DaysOfMvvmCross-master\NPlus1DaysOfMvvmCross-master\N-07-BooksPlus\Books.Touch\obj\iPhone\Debug\
+C:\code\NPlus1DaysOfMvvmCross-master\NPlus1DaysOfMvvmCross-master\N-07-BooksPlus\Books.Touch\obj\iPhone\Debug\Books.Touch.csprojResolveAssemblyReference.cache
+C:\code\poc\Books.Touch\obj\iPhone\Debug\
+C:\code\poc\Books.Touch\obj\iPhone\Debug\Books.Touch.csprojResolveAssemblyReference.cache

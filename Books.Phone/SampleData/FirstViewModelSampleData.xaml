@@ -1,0 +1,57 @@
+﻿<ViewModels:FirstViewModel xmlns:ViewModels="clr-namespace:Books.Core.ViewModels;assembly=Books.Core" xmlns:Services="clr-namespace:Books.Core.Services;assembly=Books.Core" xmlns:ViewModels1="clr-namespace:Cirrious.MvvmCross.ViewModels;assembly=Cirrious.MvvmCross" IsLoading="True" SearchTerm="Vestibulum aliquam maecenas nam">
+	<ViewModels:FirstViewModel.Results>
+		<Services:ScheduleSearchItem id="Curabitur praesent" kind="Integer sed dis">
+			<Services:ScheduleSearchItem.rootObject>
+				<Services:RootObject __v="60" _id="Aenean class est adipiscing" contributor="Parturient phasellus consequat convallis vestibulum" description="Vestibulum eleifend facilisi leo" day="Bibendum dictumst mauris" location="Dignissim cras hac elementum" name="Curae accumsan" type="Donec nullam"/>
+			</Services:ScheduleSearchItem.rootObject>
+		</Services:ScheduleSearchItem>
+		<Services:ScheduleSearchItem id="Aptent quisque" kind="Mus nec non duis">
+			<Services:ScheduleSearchItem.rootObject>
+				<Services:RootObject __v="48" _id="Etiam adipiscing auctor" contributor="Nunc faucibus habitant parturient amet" description="Aliquet interdum vestibulum" day="Inceptos congue" location="Ante sit fusce" name="Per vivamus aliquam" type="Facilisis sed sem"/>
+			</Services:ScheduleSearchItem.rootObject>
+		</Services:ScheduleSearchItem>
+		<Services:ScheduleSearchItem id="Adipiscing parturient" kind="Vel vestibulum lobortis nascetur blandit">
+			<Services:ScheduleSearchItem.rootObject>
+				<Services:RootObject __v="25" _id="Arcu pharetra placerat cursus" contributor="Pulvinar vestibulum sagittis morbi" description="Parturient vestibulum augue vestibulum cubilia" day="Eget conubia nam" location="Dis fringilla adipiscing habitasse" name="Diam commodo vestibulum lorem" type="Senectus nulla proin fermentum sed"/>
+			</Services:ScheduleSearchItem.rootObject>
+		</Services:ScheduleSearchItem>
+		<Services:ScheduleSearchItem id="Elit hendrerit dictum" kind="Dolor adipiscing est">
+			<Services:ScheduleSearchItem.rootObject>
+				<Services:RootObject __v="68" _id="Fames lectus enim felis" contributor="Sociosqu dapibus erat suscipit" description="Vestibulum euismod lorem" day="Eros egestas justo parturient nibh" location="Himenaeos vestibulum imperdiet lacus torquent" name="Ipsum hac" type="Libero ligula"/>
+			</Services:ScheduleSearchItem.rootObject>
+		</Services:ScheduleSearchItem>
+		<Services:ScheduleSearchItem id="Ultrices nec magna non penatibus" kind="Nisi leo malesuada litora mus">
+			<Services:ScheduleSearchItem.rootObject>
+				<Services:RootObject __v="18" _id="Nisl per adipiscing feugiat" contributor="Vehicula luctus" description="Vel parturient vestibulum pede quam" day="Sem vestibulum morbi vestibulum" location="Gravida iaculis volutpat adipiscing" name="Parturient massa metus porttitor sed" type="Magnis nunc odio sit orci"/>
+			</Services:ScheduleSearchItem.rootObject>
+		</Services:ScheduleSearchItem>
+		<Services:ScheduleSearchItem id="Urna dis est neque" kind="Nam sed quis">
+			<Services:ScheduleSearchItem.rootObject>
+				<Services:RootObject __v="88" _id="Mattis cras vestibulum mauris" contributor="Parturient vestibulum" description="Natoque nec" day="Duis leo mollis" location="Vestibulum nunc laoreet ornare mus" name="Hac adipiscing tincidunt" type="Montes lacinia nostra tristique netus"/>
+			</Services:ScheduleSearchItem.rootObject>
+		</Services:ScheduleSearchItem>
+		<Services:ScheduleSearchItem id="Posuere non potenti ante ultricies" kind="Platea amet">
+			<Services:ScheduleSearchItem.rootObject>
+				<Services:RootObject __v="49" _id="Adipiscing arcu pretium" contributor="Rhoncus sed" description="Eget vestibulum nulla" day="Sodales maecenas" location="Primis accumsan viverra aliquam" name="Per parturient diam" type="Praesent sem venenatis vulputate"/>
+			</Services:ScheduleSearchItem.rootObject>
+		</Services:ScheduleSearchItem>
+		<Services:ScheduleSearchItem id="Adipiscing sit parturient" kind="Vestibulum rutrum curabitur sapien bibendum">
+			<Services:ScheduleSearchItem.rootObject>
+				<Services:RootObject __v="19" _id="Porta phasellus purus" contributor="Vestibulum integer" description="Tellus velit erat" day="Sociis eleifend consequat convallis quisque" location="Enim parturient taciti vel" name="Dictumst semper elit risus" type="Vestibulum facilisi adipiscing faucibus"/>
+			</Services:ScheduleSearchItem.rootObject>
+		</Services:ScheduleSearchItem>
+		<Services:ScheduleSearchItem id="Aliquam vitae class tempor eros" kind="Vivamus vestibulum habitant inceptos">
+			<Services:ScheduleSearchItem.rootObject>
+				<Services:RootObject __v="74" _id="Curae vestibulum donec tempus tortor" contributor="Blandit nisl turpis etiam" description="Mauris parturient" day="Commodo sed" location="Aenean fusce lorem dis" name="Aliquet nibh dignissim nam nisi" type="Varius adipiscing elementum nunc"/>
+			</Services:ScheduleSearchItem.rootObject>
+		</Services:ScheduleSearchItem>
+		<Services:ScheduleSearchItem id="Odio vestibulum" kind="Morbi conubia">
+			<Services:ScheduleSearchItem.rootObject>
+				<Services:RootObject __v="60" _id="Orci nullam" contributor="Vestibulum aptent dapibus" description="Quis fames auctor felis fermentum" day="Augue egestas facilisis interdum est" location="Quam euismod" name="Nulla cubilia proin" type="Dolor lobortis hac pede nascetur"/>
+			</Services:ScheduleSearchItem.rootObject>
+		</Services:ScheduleSearchItem>
+	</ViewModels:FirstViewModel.Results>
+	<ViewModels:FirstViewModel.RequestedBy>
+		<ViewModels1:MvxRequestedBy AdditionalInfo="Adipiscing feugiat ipsum parturient gravida" Type="Unknown"/>
+	</ViewModels:FirstViewModel.RequestedBy>
+</ViewModels:FirstViewModel>

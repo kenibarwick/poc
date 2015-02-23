@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-QOJ84KGDFLD</Machine>
+    <WindowsUser>dev</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>0e419339-0445-4085-b84a-dec5235762c1</PackageIdentityName>
+    <IntermediateOutputPath>C:\code\poc\Books.Store\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6F05ED4EA11D0381BDBD80C3600588429A1F4E378F08E41B6161A0A8E16821C1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0e419339-0445-4085-b84a-dec5235762c1_1.0.0.0_x86__sg82mhq0x0s1g</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0e419339-0445-4085-b84a-dec5235762c1_sg82mhq0x0s1g!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0e419339-0445-4085-b84a-dec5235762c1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Stuart</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\code\poc\Books.Store\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-16T23:54:16.840</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\code\poc\Books.Store\bin\x86\Debug\Books.Store.exe">
+      <PackagePath>Books.Store.exe</PackagePath>
+      <Modified>2015-02-17T00:49:54.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\Books.Core\bin\Debug\Books.Core.dll">
+      <PackagePath>Books.Core.dll</PackagePath>
+      <Modified>2015-02-17T00:49:50.996</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\packages\MvvmCross.HotTuna.CrossCore.3.1.1-beta2\lib\netcore45\Cirrious.CrossCore.dll">
+      <PackagePath>Cirrious.CrossCore.dll</PackagePath>
+      <Modified>2014-01-15T23:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\packages\MvvmCross.HotTuna.CrossCore.3.1.1-beta2\lib\netcore45\Cirrious.CrossCore.WindowsStore.dll">
+      <PackagePath>Cirrious.CrossCore.WindowsStore.dll</PackagePath>
+      <Modified>2014-01-15T23:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.1.1-beta2\lib\netcore45\Cirrious.MvvmCross.dll">
+      <PackagePath>Cirrious.MvvmCross.dll</PackagePath>
+      <Modified>2014-01-15T23:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\packages\MvvmCross.HotTuna.CrossCore.3.1.1-beta2\lib\netcore45\Cirrious.MvvmCross.Localization.dll">
+      <PackagePath>Cirrious.MvvmCross.Localization.dll</PackagePath>
+      <Modified>2014-01-15T23:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\packages\MvvmCross.HotTuna.Plugin.Json.3.1.1-beta2\lib\netcore45\Cirrious.MvvmCross.Plugins.Json.dll">
+      <PackagePath>Cirrious.MvvmCross.Plugins.Json.dll</PackagePath>
+      <Modified>2014-01-15T23:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\packages\MvvmCross.HotTuna.Plugin.Visibility.3.1.1-beta2\lib\netcore45\Cirrious.MvvmCross.Plugins.Visibility.dll">
+      <PackagePath>Cirrious.MvvmCross.Plugins.Visibility.dll</PackagePath>
+      <Modified>2014-01-15T23:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\packages\MvvmCross.HotTuna.Plugin.Visibility.3.1.1-beta2\lib\netcore45\Cirrious.MvvmCross.Plugins.Visibility.WindowsStore.dll">
+      <PackagePath>Cirrious.MvvmCross.Plugins.Visibility.WindowsStore.dll</PackagePath>
+      <Modified>2014-01-15T23:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.1.1-beta2\lib\netcore45\Cirrious.MvvmCross.WindowsStore.dll">
+      <PackagePath>Cirrious.MvvmCross.WindowsStore.dll</PackagePath>
+      <Modified>2014-01-15T23:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\packages\MvvmCross.HotTuna.Plugin.Json.3.1.1-beta2\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2014-01-15T23:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\packages\Rx-Core.2.1.30214.0\lib\NetCore45\System.Reactive.Core.dll">
+      <PackagePath>System.Reactive.Core.dll</PackagePath>
+      <Modified>2014-01-15T23:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\packages\Rx-Interfaces.2.1.30214.0\lib\NetCore45\System.Reactive.Interfaces.dll">
+      <PackagePath>System.Reactive.Interfaces.dll</PackagePath>
+      <Modified>2014-01-15T23:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\packages\Rx-Linq.2.1.30214.0\lib\NetCore45\System.Reactive.Linq.dll">
+      <PackagePath>System.Reactive.Linq.dll</PackagePath>
+      <Modified>2014-01-15T23:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\packages\Rx-PlatformServices.2.1.30214.0\lib\NetCore45\System.Reactive.PlatformServices.dll">
+      <PackagePath>System.Reactive.PlatformServices.dll</PackagePath>
+      <Modified>2014-01-15T23:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\Books.Store\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-15T23:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\Books.Store\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-15T23:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\Books.Store\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-15T23:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\Books.Store\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-15T23:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\Books.Store\ToDo-MvvmCross\_ Windows Store UI.txt">
+      <PackagePath>ToDo-MvvmCross\_ Windows Store UI.txt</PackagePath>
+      <Modified>2014-01-15T23:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\Books.Store\bin\x86\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-01-15T23:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\Books.Store\bin\x86\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2014-01-15T23:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\Books.Store\bin\x86\Debug\Views\FirstView.xaml">
+      <PackagePath>Views\FirstView.xaml</PackagePath>
+      <Modified>2014-01-15T23:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\code\poc\Books.Store\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-17T00:49:55.130</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

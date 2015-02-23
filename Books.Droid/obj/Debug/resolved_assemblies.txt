@@ -1,0 +1,17 @@
+C:\code\NPlus1DaysOfMvvmCross-master\NPlus1DaysOfMvvmCross-master\N-07-BooksPlus\Books.Droid\bin\Debug\Books.Droid.dll
+C:\code\NPlus1DaysOfMvvmCross-master\NPlus1DaysOfMvvmCross-master\N-07-BooksPlus\Books.Core\bin\Debug\Books.Core.dll
+C:\code\NPlus1DaysOfMvvmCross-master\NPlus1DaysOfMvvmCross-master\N-07-BooksPlus\packages\MvvmCross.HotTuna.CrossCore.3.1.1-beta2\lib\MonoAndroid\Cirrious.CrossCore.dll
+C:\code\NPlus1DaysOfMvvmCross-master\NPlus1DaysOfMvvmCross-master\N-07-BooksPlus\packages\MvvmCross.HotTuna.CrossCore.3.1.1-beta2\lib\MonoAndroid\Cirrious.CrossCore.Droid.dll
+C:\code\NPlus1DaysOfMvvmCross-master\NPlus1DaysOfMvvmCross-master\N-07-BooksPlus\packages\MvvmCross.HotTuna.CrossCore.3.1.1-beta2\lib\MonoAndroid\Cirrious.MvvmCross.Binding.dll
+C:\code\NPlus1DaysOfMvvmCross-master\NPlus1DaysOfMvvmCross-master\N-07-BooksPlus\packages\MvvmCross.HotTuna.CrossCore.3.1.1-beta2\lib\MonoAndroid\Cirrious.MvvmCross.Binding.Droid.dll
+C:\code\NPlus1DaysOfMvvmCross-master\NPlus1DaysOfMvvmCross-master\N-07-BooksPlus\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.1.1-beta2\lib\MonoAndroid\Cirrious.MvvmCross.dll
+C:\code\NPlus1DaysOfMvvmCross-master\NPlus1DaysOfMvvmCross-master\N-07-BooksPlus\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.1.1-beta2\lib\MonoAndroid\Cirrious.MvvmCross.Droid.dll
+C:\code\NPlus1DaysOfMvvmCross-master\NPlus1DaysOfMvvmCross-master\N-07-BooksPlus\packages\MvvmCross.HotTuna.CrossCore.3.1.1-beta2\lib\MonoAndroid\Cirrious.MvvmCross.Localization.dll
+C:\code\NPlus1DaysOfMvvmCross-master\NPlus1DaysOfMvvmCross-master\N-07-BooksPlus\packages\MvvmCross.HotTuna.Plugin.DownloadCache.3.1.1-beta2\lib\MonoAndroid\Cirrious.MvvmCross.Plugins.DownloadCache.dll
+C:\code\NPlus1DaysOfMvvmCross-master\NPlus1DaysOfMvvmCross-master\N-07-BooksPlus\packages\MvvmCross.HotTuna.Plugin.DownloadCache.3.1.1-beta2\lib\MonoAndroid\Cirrious.MvvmCross.Plugins.DownloadCache.Droid.dll
+C:\code\NPlus1DaysOfMvvmCross-master\NPlus1DaysOfMvvmCross-master\N-07-BooksPlus\packages\MvvmCross.HotTuna.Plugin.File.3.1.1-beta2\lib\MonoAndroid\Cirrious.MvvmCross.Plugins.File.dll
+C:\code\NPlus1DaysOfMvvmCross-master\NPlus1DaysOfMvvmCross-master\N-07-BooksPlus\packages\MvvmCross.HotTuna.Plugin.File.3.1.1-beta2\lib\MonoAndroid\Cirrious.MvvmCross.Plugins.File.Droid.dll
+C:\code\NPlus1DaysOfMvvmCross-master\NPlus1DaysOfMvvmCross-master\N-07-BooksPlus\packages\MvvmCross.HotTuna.Plugin.Json.3.1.1-beta2\lib\MonoAndroid\Cirrious.MvvmCross.Plugins.Json.dll
+C:\code\NPlus1DaysOfMvvmCross-master\NPlus1DaysOfMvvmCross-master\N-07-BooksPlus\packages\MvvmCross.HotTuna.Plugin.Visibility.3.1.1-beta2\lib\MonoAndroid\Cirrious.MvvmCross.Plugins.Visibility.dll
+C:\code\NPlus1DaysOfMvvmCross-master\NPlus1DaysOfMvvmCross-master\N-07-BooksPlus\packages\MvvmCross.HotTuna.Plugin.Visibility.3.1.1-beta2\lib\MonoAndroid\Cirrious.MvvmCross.Plugins.Visibility.Droid.dll
+C:\code\NPlus1DaysOfMvvmCross-master\NPlus1DaysOfMvvmCross-master\N-07-BooksPlus\packages\MvvmCross.HotTuna.Plugin.Json.3.1.1-beta2\lib\MonoAndroid\Newtonsoft.Json.dll
